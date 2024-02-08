@@ -2,7 +2,7 @@
 <h3 align="center">I'm Abror. I am Backend engineer who loves coding and learning new skill</h3>
 
 
-[![](https://komarev.com/ghpvc/?username=kab1lov&label=Profile%20views&color=0e75b6&style=flat)]() [![wakatime](https://wakatime.com/badge/user/00af0153-560a-4b7c-89be-f6cec5423206.svg)](https://wakatime.com/@00af0153-560a-4b7c-89be-f6cec5423206)
+[![](https://komarev.com/ghpvc/?username=kab1lov&label=Profile%20views&color=0e75b6&style=flat)]() [![wakatime](https://wakatime.com/badge/user/018d8782-363e-4649-b507-d55436ecf76c.svg)](https://wakatimehttps://wakatime.com/@018d8782-363e-4649-b507-d55436ecf76c)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kab1lov" alt="kab1lov" /></a> </p>
