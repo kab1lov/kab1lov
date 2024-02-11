@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abror</h1>
-<h3 align="center">I'm Abror. I am Backend engineer who loves coding and learning new skill</h3>
+<h3 align="center">I'm Abror. I am Backend engineer who loves coding and learning new skills</h3>
 
 
 [![](https://komarev.com/ghpvc/?username=kab1lov&label=Profile%20views&color=0e75b6&style=flat)]()
